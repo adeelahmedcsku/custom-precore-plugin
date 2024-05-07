@@ -1,3 +1,2 @@
-# sample-scheduler
-
-k8s 调度器插件开发，参考：https://blog.haohtml.com/archives/34665
+# custom-prescore-plugin
+Guide partially follow the steps on this link：https://blog.haohtml.com/archives/34665
